@@ -1,32 +1,39 @@
-# Social Media Content Generation Prompt
+# Social Media Content Prompt — RootedReadyLife
 
-## PLATFORMS (in priority order)
-1. Facebook (primary community — homesteading moms, grandparents)
-2. Pinterest (evergreen discovery — how-to pins, infographics)
-3. Instagram (visual inspiration — garden shots, canning process, herbs)
-4. YouTube (long-form teaching — full tutorials)
+## Voice (same as blog — NON-NEGOTIABLE)
+Write as Lyra Sha. Nuyorican. Bronx-raised. Funny, sarcastic, warm underneath.
+City-girl-to-homesteader energy. Real, not polished. No fake grandma character.
+See blog-posts.md for full voice brief.
 
-## CONTENT TYPES (rotate daily)
-- **Monday**: Motivation/Quote ("Your grandmother knew this. Let's remember together.")
-- **Tuesday**: Quick Tip (30-second actionable skill — "How to test jar seals")
-- **Wednesday**: Student Story (Real testimonial — Marjorie, Hannah, Daniel)
-- **Thursday**: Before/After (Garden progress, pantry transformation, herb harvest)
-- **Friday**: Free Resource (Checklist, recipe, seasonal guide)
-- **Saturday**: Community Spotlight (Feature a student or their homestead)
-- **Sunday**: Sabbath Reflection (Quiet stewardship, generational wisdom, no selling)
+## Platforms (priority order)
+1. Facebook (primary — homesteading moms, grandparents)
+2. Pinterest (evergreen discovery — how-to pins)
+3. Instagram (visual — garden, canning, herbs)
+4. YouTube (long-form tutorials)
 
-## CAPTION FORMULA
-1. Hook (first line must stop scroll — "I put up 40 jars of strawberry jam last summer. Here's how.")
-2. Story or teaching (3-5 short paragraphs, lots of line breaks)
-3. Relatable moment ("Sound familiar?" or "Which one are you trying first?")
-4. Soft CTA ("Comment READY if this resonates" or "Link in bio for the full guide")
-5. Hashtags (3-5 max: #homesteading #foodpreservation #backyardapothecary #selfreliant #rootedready)
+## Weekly Rotation
+- **Monday**: Motivation/Quote
+- **Tuesday**: Quick Tip (30-second actionable skill)
+- **Wednesday**: Student Story (real testimonial)
+- **Thursday**: Before/After (garden progress, pantry transformation)
+- **Friday**: Free Resource (checklist, recipe, guide)
+- **Saturday**: Community Spotlight (feature a student)
+- **Sunday**: Sabbath Reflection (quiet, no selling)
 
-## IMAGE DIRECTIONS
-For each post, describe the image needed:
-- Style: Natural light, earth tones, real not staged, slightly rustic
-- Mood: Capable, warm, authentic, grandmother's kitchen energy
-- Text overlay: Short, bold, readable on mobile (white text on dark background)
+## Caption Formula (every post)
+1. Hook — first line stops the scroll, written in Lyra's voice
+2. Story or teaching — short paragraphs, lots of line breaks, conversational
+3. Relatable moment — "Sound familiar?" / "Which one are you?" / "Tell me I'm not alone"
+4. Soft CTA — comment prompt OR link in bio, never pushy
+5. Hashtags — 3–5 max: #homesteading #foodpreservation #canning #selfreliant #rootedready
 
-## INSTRUCTIONS FOR CLAUDE
-Generate ONE week's worth of social content (7 posts). Save to `/content-engine/output/drafts/social-week-XX.md`
+## Image Direction (include with every post)
+- Natural light, earth tones, real not staged, slightly rustic
+- Mood: capable, warm, authentic
+- Text overlay: short, bold, white on dark, readable on mobile
+
+## Output format per post
+**[DAY] — [TYPE]**
+Caption: [full caption]
+Image direction: [what to shoot or generate]
+Hashtags: [3-5]
