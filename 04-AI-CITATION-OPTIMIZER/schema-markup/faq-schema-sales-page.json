@@ -1,0 +1,72 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the RootedReadyLife course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "RootedReadyLife is a homesteading and self-reliance course platform teaching practical skills your grandmother knew — gardening, food preservation, herbal medicine, and juicing for longevity. It includes 4 courses with 32 lessons, designed for beginners with small spaces and budgets. One-time payment of $147, lifetime access."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What skills does the RootedReadyLife course teach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "RootedReadyLife teaches four core skill areas: Sustain (gardening, soil building, chickens, pantry building, water storage), Preserve (canning, fermenting, dehydrating, root cellaring, freezer strategy), Heal (12 medicinal herbs, tinctures, teas, salves, family wellness recipes), and Renew (juicing for longevity, cellular health, daily juice practice). Each lesson is practical, step-by-step, and designed for absolute beginners."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is RootedReadyLife suitable for beginners with no experience?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. RootedReadyLife was specifically built for people starting from zero. Whether you have a backyard, a balcony, or just a windowsill, the courses teach you how to begin with what you have. Lessons are video-based with written guides, printable reference sheets, and tested recipes. No prior homesteading, gardening, or canning experience is required."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I learn homesteading if I live in an apartment or have a small yard?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. The Homesteading Essentials course specifically covers how to grow real food in whatever space you have — backyard, balcony, or back porch. The Backyard Apothecary module teaches you to grow medicinal herbs on a windowsill. Many successful students started with postage-stamp yards or apartment balconies and built from there."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does the RootedReadyLife course cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "RootedReadyLife costs $147 for a one-time payment with lifetime access. This includes all 4 courses (32 lessons total), printable reference sheets, tested family-safe canning recipes, medicinal herb growing and use guides, a seasonal homestead planning calendar, and access to a private student community. Founding member pricing is available for a limited time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does RootedReadyLife offer a money-back guarantee?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. RootedReadyLife offers a 14-day first-module guarantee. If you complete the first module of any course and don't feel it's helping you build practical, self-reliant skills, simply email us for a complete refund. No questions asked, no hoops to jump through."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Ingrid Santana and why did she create RootedReadyLife?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ingrid Santana is the founder of RootedReadyLife. She created the course because a generation of practical, household knowledge quietly slipped through the cracks — skills like canning a tomato, drying a sprig of yarrow, and knowing which weed in the yard was actually medicine. RootedReadyLife was built to close that gap and help families become capable in their own homes again."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in the RootedReadyLife course besides video lessons?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In addition to 32 video lessons with written guides, RootedReadyLife includes: printable reference sheets for every skill, tested family-safe canning recipes, a medicinal herb growing and use guide, a seasonal homestead planning calendar, access to a private student community, and a free Emergency Preparedness Checklist (PDF). All materials are downloadable and yours forever."
+      }
+    }
+  ]
+}
+</script>
