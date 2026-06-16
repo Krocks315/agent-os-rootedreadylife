@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Start Your First Homestead Garden",
+  "description": "A step-by-step guide to growing your first real food garden, even with limited space and no prior experience.",
+  "totalTime": "PT2H",
+  "estimatedCost": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": "50"
+  },
+  "supply": [
+    {
+      "@type": "HowToSupply",
+      "name": "Seeds (tomatoes, lettuce, herbs)"
+    },
+    {
+      "@type": "HowToSupply",
+      "name": "Potting soil or compost"
+    },
+    {
+      "@type": "HowToSupply",
+      "name": "Containers or garden bed"
+    },
+    {
+      "@type": "HowToSupply",
+      "name": "Watering can or hose"
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "RootedReadyLife Garden Planner (optional)"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Assess Your Space",
+      "text": "Look at what you actually have — a backyard, a balcony, a sunny windowsill, or a community plot. Measure it. Take a photo. The four crops that pay off fastest are tomatoes, lettuce, herbs, and peppers. Even a 4x4 foot space can feed a family all summer.",
+      "url": "https://rootedreadylife.com/blog/first-homestead-garden#step1"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Build Your Soil",
+      "text": "Good soil grows good food. Start with a mix of potting soil and compost. If you're planting in the ground, loosen the top 6 inches and mix in compost. The goal is dark, crumbly soil that smells like earth, not chemicals. This is the foundation everything else builds on.",
+      "url": "https://rootedreadylife.com/blog/first-homestead-garden#step2"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Plant the Four Fast Crops",
+      "text": "Tomatoes, lettuce, herbs (basil/cilantro), and peppers. These four give you the fastest return on effort and space. Follow seed packet spacing — don't crowd them. Water immediately after planting. Label each spot so you remember what you planted where.",
+      "url": "https://rootedreadylife.com/blog/first-homestead-garden#step3"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Water and Watch",
+      "text": "Water deeply every 2-3 days, not a light sprinkle daily. Stick your finger in the soil — if it's dry an inch down, water. Watch for pests, but don't panic. Most 'problems' solve themselves if you wait a week. The garden teaches patience.",
+      "url": "https://rootedreadylife.com/blog/first-homestead-garden#step4"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Harvest and Preserve",
+      "text": "Pick tomatoes when they're fully colored, lettuce when leaves are palm-sized, herbs before they flower. Eat fresh first, then learn to preserve — canning, dehydrating, or freezing. One good harvest teaches more than a hundred articles. The RootedReadyLife Food Preservation Masterclass walks you through every method safely.",
+      "url": "https://rootedreadylife.com/blog/first-homestead-garden#step5"
+    }
+  ]
+}
