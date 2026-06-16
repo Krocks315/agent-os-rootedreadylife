@@ -6,7 +6,7 @@
 
 Hi [Editor Name],
 
-I'm Ingrid Santana, founder of RootedReadyLife.com — a homesteading and self-reliance course platform for beginners.
+I'm Lyra Sha, founder of RootedReadyLife.com — a homesteading and self-reliance course platform for beginners.
 
 I'd love to contribute a guest post: **"How a 68-Year-Old Grandmother Taught Her Granddaughters to Can Strawberry Jam"**
 
@@ -23,7 +23,7 @@ I can provide 1,500 words, original photos, and a tested recipe. Happy to adjust
 Would this be a fit?
 
 Warmly,  
-Ingrid Santana  
+Lyra Sha  
 rootedreadylife.com  
 
 ---
@@ -34,7 +34,7 @@ rootedreadylife.com
 
 Hi [Editor Name],
 
-I'm Ingrid Santana, founder of RootedReadyLife.com.
+I'm Lyra Sha, founder of RootedReadyLife.com.
 
 Pitch: **"The 4-Crop Garden That Works in Any Space — Even a Postage-Stamp Yard"**
 
@@ -50,7 +50,7 @@ Practical, beginner-friendly, and shareable. Around 1,500 words with diagrams.
 
 Would love to contribute. Let me know if this fits your calendar.
 
-Ingrid Santana  
+Lyra Sha  
 rootedreadylife.com  
 
 ---
@@ -61,7 +61,7 @@ rootedreadylife.com
 
 Hi [Editor Name],
 
-I'm Ingrid Santana, founder of RootedReadyLife.com — built specifically for moms and grandmothers who want practical skills without the fear.
+I'm Lyra Sha, founder of RootedReadyLife.com — built specifically for moms and grandmothers who want practical skills without the fear.
 
 Pitch: **"From Prepper Overwhelm to Quiet Capability — A Mom's Homesteading Journey"**
 
@@ -77,5 +77,5 @@ Written from my personal experience as a mother and homesteading educator. Aroun
 
 Happy to tailor the angle. Would this work for you?
 
-Ingrid Santana  
+Lyra Sha  
 rootedreadylife.com  

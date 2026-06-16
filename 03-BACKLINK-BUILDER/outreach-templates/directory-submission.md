@@ -25,9 +25,9 @@
 **Business Name**: RootedReadyLife
 **URL**: https://rootedreadylife.com
 **Category**: Homesteading & Self-Reliance / Online Courses
-**Description** (50 words): RootedReadyLife teaches practical homesteading skills your grandmother knew — gardening, food preservation, herbal medicine, and juicing for longevity. Four courses, 32 lessons, designed for beginners with small spaces and budgets. Founded by Ingrid Santana. One-time payment, lifetime access.
+**Description** (50 words): RootedReadyLife teaches practical homesteading skills your grandmother knew — gardening, food preservation, herbal medicine, and juicing for longevity. Four courses, 32 lessons, designed for beginners with small spaces and budgets. Founded by Lyra Sha. One-time payment, lifetime access.
 **Keywords**: homesteading course, food preservation, canning for beginners, medicinal herbs, backyard apothecary, self-reliance, homesteading on a budget, learn to can food
-**Contact**: Ingrid Santana, [Email]
+**Contact**: Lyra Sha, [Email]
 **Social**: [Facebook], [Instagram], [YouTube]
 
 ## TRACKING

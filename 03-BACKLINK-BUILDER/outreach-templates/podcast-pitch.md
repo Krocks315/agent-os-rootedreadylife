@@ -27,7 +27,7 @@ I have [Equipment/Setup details] and can record anytime that works for your sche
 Would this be a fit for [Podcast Name]? Happy to send more details or a one-sheet.
 
 Grateful for your time,
-Ingrid Santana
+Lyra Sha
 [Contact Info]
 
 P.S. — I have a free Emergency Preparedness Checklist for your listeners if we end up recording: [Lead Magnet Name]
